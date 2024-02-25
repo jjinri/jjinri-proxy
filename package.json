@@ -1,0 +1,23 @@
+{
+  "name": "jjinri-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/jjinri/jjinri-proxy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjinri/jjinri-proxy/issues"
+  },
+  "homepage": "https://github.com/jjinri/jjinri-proxy#readme",
+  "dependencies": {
+    "http-proxy": "^1.18.1"
+  }
+}
